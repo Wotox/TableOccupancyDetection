@@ -69,7 +69,7 @@ def main():
     # Colors for visualization
     COLOR_EMPTY = (0, 255, 0)      # Green
     COLOR_OCCUPIED = (0, 0, 255)   # Red
-    COLOR_ROI_OUTLINE = (255, 255, 0) # Yellow for ROI boundaries
+    COLOR_ROI_OUTLINE = (255, 255, 0) # Blue for ROI boundaries
 
     # Main loop - get frame, do operations, write frame to a new video and show each modified frame.
     while True:
